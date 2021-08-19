@@ -1,6 +1,6 @@
 # ***Hey I am Web Flyer.***
 *We create alluring apps ✨. Our motto is to bring light to future. It is been astounding creating fabulous projects We are dedicated in: <br>*
-
+<h3>Discord server - https://discord.gg/EtGGN3MDUY</h3>
 <font style = "Lucida Calligraphy">
 <br>
 <li>Java</li>
